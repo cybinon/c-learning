@@ -12,7 +12,7 @@
 
 * Section 1 Basic Concepts:
   - <a href="section1/chap1">Chapter 1 NUM | C programming labratory</a>
-  - Chapter 2 Data Types:
+  - <a href="section1/chap2">Chapter 2 Data Types</a>
   - Chapter 3 Input & Output:
   - Chapter 4 Comments:
   - Chapter 5 Operators:
@@ -65,7 +65,7 @@
 
 * Section 1 Энгийн ойлголт:
   - <a href="section1/chap1">Chapter 1 МУИС | С программчлалын хичээлийн лабротарын ажил</a>
-  - Chapter 2 Өгөгдлийн бүтэц:
+  - <a href="section1/chap2">Chapter 2 Өгөгдлийн бүтэц</a>
   - Chapter 3 Оролт болон гаралт:
   - Chapter 4 Comments:
   - Chapter 5 Үйлдлүүд:
