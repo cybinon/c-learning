@@ -1,3 +1,5 @@
+# Explanation
+
 Printed the amount of storage required for each of the types
 
 int - integer, a whole number
@@ -5,7 +7,7 @@ float - floating point, a number with a fractional part
 double - double-precision floating point value
 char - single character
 
-# Outputs:
+Outputs:
 
 ```js
 
@@ -18,6 +20,8 @@ long double: 16
 > Corresponding size in bytes for each data type
 
 
+# Тайлбар
+
 Төрөл тус бүрийн санах ойнд шаардагдах эзэлхүүнийг хэвлэв.
 
 
@@ -26,7 +30,7 @@ float - богино бутархай тоо
 double - урт бутархай тоо
 char - нэг тэмдэгт эсвэл мөр
 
-# Outputs:
+Гаралт:
 
 ```js
 
